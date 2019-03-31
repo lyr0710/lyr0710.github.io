@@ -23,8 +23,15 @@ class Solution {
         return result;            
     }
 }
+自己写的算法太基础，更优解法思路贴在下面，下周根据思路来实现。
+The general idea is:
+step1 : copy an array, and sort it using quick sort, O(nlogn)
+step2 : using start and end points to find a, b which satifys a+b==target, O(n)
+step3 : find the index of a, b from origin array, O(n)
+note: in step3, you should judge whethour a==b, if true, you must find the second index of b.
 
 Review 
+
 1.
 对于刚刚发布的JDK 12，了解了这一版本的一些新特性。
 因为有为项目组成员播报技术动向的任务，便针对JDK 12的新特性switch的表达式写法，给项目组小伙伴出了道趣味题
