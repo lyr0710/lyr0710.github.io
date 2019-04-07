@@ -35,14 +35,13 @@ class Solution {
             carryFlag = sumTmp / 10;
             resultTmp.val = sumTmp % 10;
             add1 = add1.next;
-            add2 = add2.next;
-           
+            add2 = add2.next;           
         }
         resultNode = resultNode.next;
-        return resultNode;
-        
+        return resultNode;        
     }
 }
+
 leetcode的题这周第二次刷，runtime distributio从上周的50%+提到了98%，有进步值得开心。可没有抽出更多时间，仔细研究每道题的算法，尤其把最优解法掌握。
 之后的每周这一任务应该抽平常时间提前做，不能再留到周日匆匆忙忙的完成任务。
 
