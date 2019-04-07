@@ -1,4 +1,4 @@
-第2周
+第3周
 
 Algorithm
 
@@ -49,6 +49,8 @@ Review
 
 java中的不可变对象
 https://dzone.com/articles/java-immutable-objects
+《重构》的学习接近尾声，还剩两节课总结复习。学习《重构》的过程中涉及到了几种设计模式，并不了解。接下来对设计模式依次学习，职责链模式的英文视频讲解：
+https://dzone.com/articles/chain-of-responsibility-design-pattern-video
 
 Technique
 
