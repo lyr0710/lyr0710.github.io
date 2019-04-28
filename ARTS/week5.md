@@ -84,7 +84,11 @@ class Solution {
 算法时间复杂度O(n²)
 
 Review
-
+最近在学习设计模式，找到一本英文书，里面介绍了Java 的 visitor pattern观察者模式是如何从无到有，一步一步“发明”出来的。
+篇幅较长，刚刚开头，抽时间跟随作者把书立的例子敲一遍加深理解。
+《A Little Java, A Few Patterns》
+Matthias Felleisen
+Daniel P. Friedman
 
 
 Tip
