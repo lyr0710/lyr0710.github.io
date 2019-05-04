@@ -115,3 +115,7 @@ class Solution {
         return median;  
     }
 }
+
+
+Runtime: 3 ms, faster than 73.59% of Java online submissions for Median of Two Sorted Arrays.
+Memory Usage: 48.5 MB, less than 81.09% of Java online submissions for Median of Two Sorted Arrays.
